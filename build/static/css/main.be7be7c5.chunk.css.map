@@ -1,0 +1,1 @@
+{"version":3,"sources":["index.css"],"names":[],"mappings":"AAAA,cACE,WACF,CAEA,YACE,SACF","file":"main.be7be7c5.chunk.css","sourcesContent":[".noti-success {\n  color: green;\n}\n\n.noti-error {\n  color: red;\n}\n"]}

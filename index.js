@@ -26,6 +26,8 @@ app.use(
   })
 );
 
+app.use(express.static("build"));
+
 let persons = [
   {
     id: 1,
